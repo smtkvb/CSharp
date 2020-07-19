@@ -1,0 +1,16 @@
+﻿body.swagger-section {
+    background-color: #f5f6f7 ;
+}
+/* swagger ui customization */
+body.swagger-section #header {
+    background-color: white !important;
+    background: url("/m/App_Themes/Material/Icons/LOGO.svg") no-repeat;
+    background-position-x: 22px;
+    background-size: 110px 30px;
+    background-position-y: center;
+}
+
+    body.swagger-section #header .swagger-ui-wrap #logo {
+        display: none;
+    }
+
